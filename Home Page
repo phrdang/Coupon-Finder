@@ -1,7 +1,6 @@
 <!DOCTYPE html>
   <head>
     <title>Coupon Finder</title>
-    <link rel=“stylesheet” type=“text/css” href=“Home Page CSS”>
   </head>
   <body>
     <center>
@@ -9,7 +8,7 @@
       <h1>Coupon Finder</h1> <br><br>
         <p><i>Find all the coupons you'll ever need!</i></p><br><br><br>
       <h2>What is Coupon Finder?</h2>
-        <p><b>Coupon Finder</b> is a <b>100% free resource</b> for all of your shopping needs! Now you don't have to worry 
+        <p><b>Coupon Finder</b> is a <b>100% free resource</b> for all of your shopping needs! <br> Now you don't have to worry 
           about losing or finding your coupons, just search for the store you want to shop at and we'll show 
           you all the available coupons. <br> <br> To get started, click on the icon of your store below.</p>
      </center>
