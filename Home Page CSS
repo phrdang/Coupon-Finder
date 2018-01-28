@@ -1,3 +1,4 @@
+
 h1, h2 {
   color: #6ad7e6;
 }
@@ -6,7 +7,11 @@ body {
 	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
 }
 
-div {
+#blackbox {
 	padding: 15px;
 	border: 5px solid black;
+}
+
+#topheavy {
+	padding-top: 50px;
 }
