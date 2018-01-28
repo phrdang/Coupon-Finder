@@ -6,7 +6,7 @@
   <center>
   <img src="https://seeklogo.com/images/L/lucky-logo-89725A7919-seeklogo.com.gif" alt="Lucky logo" height = 200% width = 200%>
   </center>
-  
+</body>
   <script src="https://www.gstatic.com/firebasejs/4.9.0/firebase.js"></script>
 <script>
   // Initialize Firebase
