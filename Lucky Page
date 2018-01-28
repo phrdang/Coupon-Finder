@@ -1,1 +1,9 @@
-
+<!DOCTYPE html>
+<head>
+<title>Coupon Finder: Lucky</title>
+<body>
+  <link rel = "stylesheet" type="text/css" href = "index.css">
+  <center>
+  <img src="https://seeklogo.com/images/L/lucky-logo-89725A7919-seeklogo.com.gif" alt="Lucky logo" height = 200% width = 200%>
+  </center>
+</html>
