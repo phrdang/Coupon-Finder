@@ -2,6 +2,11 @@ h1, h2 {
   color: #6ad7e6;
 }
 
-h1 {
-	font-family: 'Permanent Marker', cursive;
+body {
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+div {
+	padding: 15px;
+	border: 10px solid black;
 }
