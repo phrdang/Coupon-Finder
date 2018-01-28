@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+<title>Coupon Finder: Macy's</title>
+<body>
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <center>
+    <style>
+          /*This stylesheet sets the width of all images to 40%: */
+            img {
+                  width:40%;
+                }
+          </style>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Macys.svg/2000px-Macys.svg.png" alt="Macy's">
+  </center>
+  
+</body>
+  <script src="https://www.gstatic.com/firebasejs/4.9.0/firebase.js"></script>
+<script>
+  <!--Initialize Firebase-->
+  var config = {
+    apiKey: "AIzaSyDFBRyyJ5GtwGbttvmBDncF84hs71icH4M",
+    authDomain: "coupon-website.firebaseapp.com",
+    databaseURL: "https://coupon-website.firebaseio.com",
+    projectId: "coupon-website",
+    storageBucket: "coupon-website.appspot.com",
+    messagingSenderId: "841149453197"
+  };
+  firebase.initializeApp(config);
+  
+  var firebase = firebase.database();
+  
+  // Import Admin SDK
+var admin = require("firebase-admin");
+// Get a database reference to our posts
+var db = admin.database();
+var ref = db.ref("server/saving-data/fireblog/posts");
+// Attach an asynchronous callback to read the data at our posts reference
+ref.on("value", function(snapshot) {
+  console.log(snapshot.val());
+}, function (errorObject) {
+  console.log("The read failed: " + errorObject.code);
+});
+  
+</script>
+</html>
