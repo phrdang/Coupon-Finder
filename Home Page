@@ -19,6 +19,7 @@
                   width:40%;
                 }
           </style>
+    <div id="topheavy">
          <table align="center">
     <tr>
        <td>
@@ -55,10 +56,9 @@
        </td>
     </tr>
          </table>
+    <div>
   </body>
   <!--This (below) is added from Firebase. If anything in this code is wrong it's probably this. -->
-  # Coupon-Finder
-#Website for finding coupons depending on the store
 
 <script src="https://www.gstatic.com/firebasejs/4.9.0/firebase.js"></script>
 <script>
