@@ -1,7 +1,0 @@
-{
-    "Lucky": {
-      "zip code": "95014",
-      "business name": "Lucky",
-      "url": "http://api2.yp.com/listings/v1/search?searchloc=95014&term=lucky&format=html&sort=distance&radius=5&listingcount=10&key=vzv3k2g3l8"
-    }
-}
