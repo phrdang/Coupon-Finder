@@ -29,7 +29,7 @@
   
   var firebase = firebase.database();
   
-  var ref = db.ref("dinosaurs");
+  var ref = db.ref("zip code");
 ref.orderByKey().on("child_added", function(snapshot) {
   console.log(snapshot.key);
 });
