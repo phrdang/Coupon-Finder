@@ -1,9 +1,6 @@
 {
-  "business name": {
+  "links": {
     "Lucky": {
-      "zipcode": "95014",
       "url": "http://api2.yp.com/listings/v1/search?searchloc=95014&term=lucky&format=json&sort=distance&radius=5&listingcount=10&key=vzv3k2g3l8"
-    },
-    "Macys": {
     }
 }
