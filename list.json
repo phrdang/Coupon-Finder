@@ -1,0 +1,48 @@
+"JCPenney" = {
+    "stores" : [
+      {"url" : "https://www.retailmenot.com/view/jcpenney.com?c=9516186&redemptionChannel=online","zip code" : 95014},
+      {"url" : "http://instore.thread.co/retailmenot/jcpenney.com/offer/DGKPDQS7DFD4XD5S2W4OZ2X3GE?click_id=69006FBD-4F8A-4372-82D8-0548BE013254&uq=THVM36DHNZCUFNXXL2TG266LHQ&df=SU2ZX6GC2BB6DLZHZUZCYG724Y&session=mkU0VGBdEQ5a6da15303feb", "zip code" : 95002},
+      {"url" : "https://www.jcpenney.com/jsp/browse/marketing/promotion.jsp?pageId=pg40048300007&cm_re=HP-DT-_-ZA0128-_-63foryou","zip code" : 95418}
+                ]
+  };
+
+"Lucky" = {
+    "stores" : [
+      {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=ea1f5108-0af1-4854-8614-d7eaa1963282&ptid=vzv3k2g3l8&ypid=450776031&lid=1000108695600&tl=4&lsrc=SP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1000108695600%3Ffrom%3Dpubapi_vzv3k2g3l8", "zip code" : 95014},
+      {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=1a2f4fe8-080c-4eda-b1f5-a88de32b8236&ptid=vzv3k2g3l8&ypid=536929027&lid=1001735732768&tl=4&lsrc=GUMP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001735732768%3Ffrom%3Dpubapi_vzv3k2g3l8", "zip code" : 95002},
+      {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=cb664437-9b87-4a30-8699-288381274d40&ptid=vzv3k2g3l8&ypid=536929027&lid=1001735732768&tl=4&lsrc=GUMP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001735732768%3Ffrom%3Dpubapi_vzv3k2g3l8", "zip code" : 95148}
+                ]
+  };
+
+"Macy's" = {
+    "stores" : [
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=76f27c32-d8e4-4fad-b50c-fa8eec1fb30d&ptid=vzv3k2g3l8&ypid=533732497&lid=1001726912629&tl=4&lsrc=SE&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001726912629%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95148},
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=4b4346b0-ff99-42f5-9b37-fbbe44f438c7&ptid=vzv3k2g3l8&ypid=533732497&lid=1001726912629&tl=4&lsrc=SE&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001726912629%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95014},
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=8f4973f1-d0ed-47b9-87b9-17511eaed650&ptid=vzv3k2g3l8&ypid=533732497&lid=1001726912629&tl=4&lsrc=SE&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001726912629%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95002}
+    ]
+  };
+
+"Nordstrom" = {
+    "stores" : [
+        {"url" : "https://www.coupons.com/coupon-codes/nordstrom.com/?cid=1240051_3&pos=1&ccti=49bd119ec79c45579460eae28752d425&lbox=1&nof=true","zip code" : 95014},
+        {"url" : "https://www.coupons.com/coupon-codes/nordstrom.com/?cid=1618471_3&pos=4&ccti=938f4ee0373f40af9a89385488139682&lbox=1&nof=true","zip code" : 94002},
+        {"url" : "https://www.coupons.com/coupon-codes/nordstrom.com/?cid=1609155_3&pos=8&ccti=9c3dd0dbc4ed42b48ab5b7673e9747c6&lbox=1&nof=true","zip code" : 95148}
+    ]
+  };
+
+"Safeway" = {
+    "stores" : [
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=6bab26c6-4227-48d5-87da-1bf8e499bebc&ptid=vzv3k2g3l8&ypid=450776031&lid=1000108695600&tl=4&lsrc=SP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1000108695600%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95014},
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=abadf701-f95d-4851-a86d-e09b10468b39&ptid=vzv3k2g3l8&ypid=536929027&lid=1001735732768&tl=4&lsrc=GUMP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001735732768%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95002},
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=6ae7a76c-d16e-43e1-acc9-ef99dd9ef3b0&ptid=vzv3k2g3l8&ypid=536929027&lid=1001735732768&tl=4&lsrc=GUMP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001735732768%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95148}
+    ]
+  };
+
+"Target" = {
+    "stores" : [
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=647b04dc-7582-4892-b8c4-38c184a41f0c&ptid=vzv3k2g3l8&ypid=450776031&lid=1000108695600&tl=4&lsrc=SP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1000108695600%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95014},
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=193b3424-97a7-4b99-ba15-bed685d61766&ptid=vzv3k2g3l8&ypid=536929027&lid=1001735732768&tl=4&lsrc=GUMP&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001735732768%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95002},
+        {"url" : "http://c.ypcdn.com/2/c/rtd?vrid=vzv3k2g3l8&rid=26b89d0a-d4d8-4678-b745-d5a936c1f87e&ptid=vzv3k2g3l8&ypid=517461481&lid=517461481&tl=4&lsrc=MDM&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F517461481%3Ffrom%3Dpubapi_vzv3k2g3l8","zip code" : 95148}
+    ]
+  }
+
