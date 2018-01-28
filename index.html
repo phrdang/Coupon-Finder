@@ -1,18 +1,6 @@
 <!DOCTYPE html>
   <head>
     <title>Coupon Finder</title>
-     $.getJSON("/json/index.json", function(json) {
-
-        var html = "";        
-json.forEach(function(val) {
-  var keys = Object.keys(val);
-  html += "<div class = 'index'>";
-  keys.forEach(function(key) {
-    html += "<strong>" + key + "</strong>: " + val[key] + "<br>";
-  });
-  html += "</div><br>";
-});
-        
   </head>
   <body>
   <link rel = "stylesheet" type="text/css" href = "index.css">
@@ -42,7 +30,7 @@ json.forEach(function(val) {
         </td>
            <script>
              var obj = JSON.parse('{"95014" && "94002" && "95148" && "94085" ,"Lucky"}');
-             
+             document.write(obj);
            </script>
        <td>
         <a href="[insert link to database here]">
