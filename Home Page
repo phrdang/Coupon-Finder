@@ -20,14 +20,38 @@
           </style>
          <table align="center">
     <tr>
-       <td><img src="https://s3-media2.fl.yelpcdn.com/buphoto/sgdDEvrtDXYAVIST7NMmkQ/o.jpg" alt="Lucky"></td>
-       <td><img src="https://local.safeway.com/images/logos/logo-safeway-d.png" alt="Safeway"></td>
-       <td><img src="http://img.moneysavingmom.com/wp-content/uploads/2017/10/1200px-Target_logo.svg_.png" alt="Target"></td>
+       <td>
+        <a href="[insert link to database here]">
+          <img src="https://s3-media2.fl.yelpcdn.com/buphoto/sgdDEvrtDXYAVIST7NMmkQ/o.jpg" alt="Lucky">
+         </a>
+        </td>
+       <td>
+        <a href="[insert link to database here]">
+          <img src="https://local.safeway.com/images/logos/logo-safeway-d.png" alt="Safeway">
+        </a>
+        </td>
+       <td>
+         <a href="[insert link to database here]">
+           <img src="http://img.moneysavingmom.com/wp-content/uploads/2017/10/1200px-Target_logo.svg_.png" alt="Target">
+         </a>
+       </td>
     </tr>
     <tr>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Macys.svg/2000px-Macys.svg.png" alt="Macy's"></td>
-      <td><img src="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-JCPenney-Logo-PNG-Transparent-1-500x136.png" alt="JCPenney"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nordstrom_Logo.svg/1000px-Nordstrom_Logo.svg.png" alt="Nordstrom"></td>
+      <td>
+        <a href="[insert link to database here]">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Macys.svg/2000px-Macys.svg.png" alt="Macy's">
+        </a>
+       </td>
+      <td>
+        <a href="[insert link to database here]">
+          <img src="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-JCPenney-Logo-PNG-Transparent-1-500x136.png" alt="JCPenney">
+        </a>
+      </td>
+      <td>
+        <a href="[insert link to database here]">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nordstrom_Logo.svg/1000px-Nordstrom_Logo.svg.png" alt="Nordstrom">
+        </a>
+       </td>
     </tr>
          </table>
   </body>
