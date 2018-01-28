@@ -33,7 +33,7 @@
 }
 
 func getData() {
-    let ref = Database.database().reference().child("hobbies")
+    let ref = firebase.database().reference().child("hobbies")
     let query = ref.queryOrdered(byChild: "cost").queryEqual(toValue: "low" )
     query.observe(.childAdded, with: {( snapshot) in
         self.array.append((snapshot.childSnapshot(forPath: "hobbyName").value as? String)!)
